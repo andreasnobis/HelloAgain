@@ -1,0 +1,12 @@
+{
+  "defaultEntryPoint": "index.php",
+  "namespace": "MyFirstViewTest",
+  "menuEntries": [
+    {
+      "label": "Hello World",
+      "menu": "order",
+      "urlKey": "hello-world-2",
+      "entryPoint": "index.php"
+    }
+  ]
+}
